@@ -867,6 +867,7 @@
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
 * [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
 * [Berkeley's Structure and Interpretation of Computer Programs](https://cs61a.org)
+* [Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming#instructors) - Dr. Areti Manataki (Coursera)
 * [Codesdope](https://www.codesdope.com/python-introduction)
 * [Fork Python](https://practice.geeksforgeeks.org/courses/fork-python) (GeeksForGeeks)
 * [Google's Python Course](https://developers.google.com/edu/python/)
